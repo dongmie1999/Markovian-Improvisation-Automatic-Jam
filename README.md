@@ -13,7 +13,7 @@ core: my/all1.py
 GUI: run my/v4main.py  
 
 <div align=center><img width="556" height="500" src="https://github.com/dongmie1999/Markovian-Improvisation-Automatic-Jam/blob/master/sreenshot.png"/></div>  
-reference：  
+reference：<br />
     1.[MusicCritique](https://github.com/josephding23/MusicCritique)<br />
     2.[mido](https://github.com/mido/mido)<br />
     3.[PyQt5-signals-slots](https://www.riverbankcomputing.com/static/Docs/PyQt5/signals_slots.html?highlight=connectslotsbyname)<br />
