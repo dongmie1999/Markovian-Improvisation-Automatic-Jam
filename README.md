@@ -12,7 +12,7 @@ Automatic improvisation based on markov model, select your key and mode, input t
 core: my/all1.py  
 GUI: run my/v4main.py  
 
-<div align=center><img width="333" height="300" src="https://github.com/dongmie1999/Markovian-Improvisation-Automatic-Jam/blob/master/sreenshot.png"/></div>  
+<div align=center><img width="556" height="500" src="https://github.com/dongmie1999/Markovian-Improvisation-Automatic-Jam/blob/master/sreenshot.png"/></div>  
 reference：  
     1.[MusicCritique](https://github.com/josephding23/MusicCritique)  
     2.[mido](https://github.com/mido/mido)  
